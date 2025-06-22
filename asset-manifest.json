@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/extract-invoice-app/static/css/main.e6c13ad2.css",
+    "main.js": "/extract-invoice-app/static/js/main.899abc22.js",
+    "static/js/453.48e9f652.chunk.js": "/extract-invoice-app/static/js/453.48e9f652.chunk.js",
+    "index.html": "/extract-invoice-app/index.html",
+    "main.e6c13ad2.css.map": "/extract-invoice-app/static/css/main.e6c13ad2.css.map",
+    "main.899abc22.js.map": "/extract-invoice-app/static/js/main.899abc22.js.map",
+    "453.48e9f652.chunk.js.map": "/extract-invoice-app/static/js/453.48e9f652.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.899abc22.js"
+  ]
+}
